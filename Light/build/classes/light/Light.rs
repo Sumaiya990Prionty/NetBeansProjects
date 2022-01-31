@@ -1,2 +1,0 @@
-light.Light
-light.Distance
